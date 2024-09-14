@@ -3,7 +3,7 @@ const mongoose=require("mongoose");
 const express = require("express");
 const app = express()
 app.use(express.json())
-mongoose.connect("mongodb+srv://manav:Manav%400603@cluster0.svddq7z.mongodb.net/userappnew")
+mongoose.connect("")//mongodb url
 const manav=mongoose.model('manav',{name:String,
     email:String,
     passward:String});
