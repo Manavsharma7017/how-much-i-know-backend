@@ -1,0 +1,14 @@
+=>backend
+-express
+-express with example
+-middleware
+-sercheckwithoutmiddleware
+-app.use
+-inputvalidation
+-inputvalidationwithzod
+-global cach
+-fetch
+-auth(
+    -hashing
+    
+)
